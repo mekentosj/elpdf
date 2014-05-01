@@ -1,0 +1,11 @@
+{
+  "name": "elpdf",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/integration.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
