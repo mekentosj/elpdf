@@ -1,4 +1,4 @@
-## ElPDF
+## EL PDF
 
 El Pdf is a node wrapper for the HyPDF Heroku add-on. It uses the built-in https module.
 
